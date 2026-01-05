@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260105">
+<tv date="20260105">
 <channel id="GMATV.ph@SD"><display-name>GMA</display-name><icon src="https://i.imgur.com/uAqFMLy.png"/><url>https://clickthecity.com</url></channel>
 <channel id="A2Z.ph@SD"><display-name>a2z Channel 11</display-name><icon src="https://i.imgur.com/1zsdloF.png"/><url>https://clickthecity.com</url></channel>
 <channel id="Liga.ph@SD"><display-name>Liga</display-name><icon src="https://i.imgur.com/bRb0Tlv.png"/><url>https://clickthecity.com</url></channel>
@@ -31,4 +31,5 @@
 <channel id="IBC13.ph@SD"><display-name>IBC TV 13</display-name><icon src="https://i.imgur.com/1KaTUOo.png"/><url>https://clickthecity.com</url></channel>
 <channel id="TV5.ph@SD"><display-name>TV5</display-name><icon src="https://i.imgur.com/PYJhTiq.png"/><url>https://clickthecity.com</url></channel>
 <channel id="PTV.ph@SD"><display-name>PTV</display-name><icon src="https://i.imgur.com/MMccHNd.png"/><url>https://clickthecity.com</url></channel>
+
 </tv>
